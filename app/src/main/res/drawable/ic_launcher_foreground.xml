@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded White Medical Cross Base -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M48,27 L60,27 A4,4 0 0,1 64,31 L64,48 L81,48 A4,4 0 0,1 85,52 L85,64 A4,4 0 0,1 81,68 L64,68 L64,85 A4,4 0 0,1 60,89 L48,89 A4,4 0 0,1 44,85 L44,68 L27,68 A4,4 0 0,1 23,64 L23,52 A4,4 0 0,1 27,48 L44,48 L44,31 A4,4 0 0,1 48,27 Z" />
+    <!-- Modern Emerald Pharmacy Heart/Pill accent in center -->
+    <path
+        android:fillColor="#00A86B"
+        android:pathData="M54,40 L60,40 A2,2 0 0,1 62,42 L62,52 L72,52 A2,2 0 0,1 74,54 L74,60 A2,2 0 0,1 72,62 L62,62 L62,72 A2,2 0 0,1 60,74 L54,74 A2,2 0 0,1 52,72 L52,62 L42,62 A2,2 0 0,1 40,60 L40,54 A2,2 0 0,1 42,52 L52,52 L52,42 A2,2 0 0,1 54,40 Z" />
+    <!-- Pure White Caduceus/Heartbeat line detail -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M44,57 L49,57 L52,50 L56,64 L59,57 L64,57" />
+</vector>

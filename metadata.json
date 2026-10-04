@@ -1,0 +1,6 @@
+{
+  "name": "CliniPharma",
+  "description": "Sistema Integrado de Gestão Clínica e Farmacêutica para Angola com Triagem, PEP, Prescrição Digital, Farmácia PDV e Caixa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
